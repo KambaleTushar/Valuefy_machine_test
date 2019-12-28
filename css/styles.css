@@ -1,0 +1,198 @@
+
+
+header {
+	padding: 1%;
+	background-color: #F0F0F0;
+	box-shadow: 0 4px 6px -2px gray;
+	margin-bottom: 5%;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
+}
+
+h2 {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 700;
+}
+
+h3 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+}
+
+.feature-box {	font-family: 'Ubuntu', sans-serif;
+}
+
+.detail {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 300;
+}
+
+.company-logo {
+	margin-left: 5%;
+}
+
+.back-arrow {
+	color: #D0D0D0;
+	padding: 1%;
+}
+
+.close-arrow {
+	color: #D0D0D0;
+	float: right;
+	padding:1%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.recommended-portfolio {
+	padding: 3%;
+}
+
+
+.portfolio-heading-box {
+	text-align: center;
+	margin-bottom: 55px;
+}
+
+.portfolio-details {
+	padding: 2%;
+}
+
+.sip{
+	margin-left:2%;
+}
+
+.feature-box .iconic {
+	display: inline;
+	float: left;
+}
+
+.iconic {
+	font-size: 2rem;
+	padding-right: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+li {
+	margin: 0 5% 0 0;
+	display: inline;
+}
+
+.plan-row {
+	margin: 0 0 2% 5%;
+	border: thin solid #A9A9A9;
+}
+
+.plan-name {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size: 1.3rem;
+}
+
+.price {
+	padding: 25% 25% 25% 0;
+	color: #fff;
+}
+
+.circle-icon {
+	color: #20B2AA;
+	margin-right: 2.5%;
+}
+
+.aditya-plan {
+	border-left: 6px solid #048a6f;
+}
+
+.img-and-plans {padding: 2% 5% 2% 0%;}
+
+.ratio-img {
+	text-align: justify;
+    width: 354px;
+}
+
+.ratio-img img {
+    margin: 0 auto;
+}
+
+
+
+.myButton {
+	background-color: #1abc9c;
+	color: #fff;
+	font-size: 28px;
+	border-color: #1abc9c;
+	border-radius: 3px;
+    display:inline-block;
+    justify-content: center;
+    padding: 0.8% 3%; 
+}
+
+.myButton:hover {
+	background-color:#048a6f;
+	border-color: #048a6f;
+}
+
+
+li {
+	font-family: 'Montserrat', sans-serif; 
+	color: #696969;
+}
+
+figcaption {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 0.7rem;
+}
+
+
+
+
+body{
+	margin-bottom: 9%;
+}
